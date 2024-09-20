@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: v0.2.0
+_src_path: gh:alan-turing-institute/python-project-template
+coc: our_coc
+email: nsimpson@turing.ac.uk
+full_name: n
+license: BSD
+min_python_version: '3.10'
+org: phinate
+project_name: test
+project_short_description: A great package.
+python_name: test
+typing: no_typing
+url: https://github.com/phinate/test
