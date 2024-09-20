@@ -41,6 +41,9 @@ Homepage = "https://github.com/phinate/test"
 Discussions = "https://github.com/phinate/test/discussions"
 Changelog = "https://github.com/phinate/test/releases"
 
+[tool.setuptools_scm]
+write_to = "src/test/_version.py"
+
 [tool.pytest.ini_options]
 minversion = "6.0"
 addopts = ["-ra", "--showlocals", "--strict-markers", "--strict-config"]
